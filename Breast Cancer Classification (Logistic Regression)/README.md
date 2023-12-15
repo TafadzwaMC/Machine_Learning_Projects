@@ -7,8 +7,9 @@
        alt="Breast Cancer Activism" width="60%" />
 </p>
 <h3 align="center" >A machine learning project, completed using Google Colab, using Scikit-Learn's Logistic Regression algorithm.
-The algorithm predicted the class of tumors to either be malignant or benign based on features provided.
-</h3>
+The algorithm predicted the class of tumors to either be malignant or benign based on features provided.</h3>
+<h3 align="center"><a href="https://www.linkedin.com/pulse/breast-cancer-classification-using-logistic-tafadzwa-chigwada-jol7f">LinkedIn Article</a></h3>
+
 <br>
 <br>
   
