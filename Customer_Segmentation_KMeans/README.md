@@ -3,8 +3,8 @@
 
 
   <p align="center">
-  <img src="https://static.toiimg.com/thumb/width-350,height-197,imgsize-7096,msid-94223364/94223364.jpg"
-       alt="Breast Cancer Activism" width="60%" />
+  <img src="https://hr2n59f75g6m.cdn.shift8web.com/wp-content/uploads/2020/12/segmentazione-della-domanda-e-strategie-di-marketing-1.jpg"
+       alt="Customer Segmentation" width="60%" />
 </p>
 <h3 align="center" >A machine learning project, completed using Google Colab, using Scikit-Learn's KMeans Clustering Algorithm.
 The algorithm clustered a given set of customers into various groups depending on similar characteristics.</h3>
