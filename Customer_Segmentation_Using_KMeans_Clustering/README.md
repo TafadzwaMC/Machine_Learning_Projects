@@ -8,7 +8,6 @@
 </p>
 <h3 align="center" >A machine learning project, completed using Google Colab, using Scikit-Learn's KMeans Clustering Algorithm.
 The algorithm clustered a given set of customers into various groups depending on similar characteristics.</h3>
-<h3 align="center"><a href="">LinkedIn Article</a></h3>
 
 <br>
 <br>
