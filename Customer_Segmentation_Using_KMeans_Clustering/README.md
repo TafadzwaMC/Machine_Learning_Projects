@@ -13,7 +13,7 @@ The algorithm clustered a given set of customers into various groups depending o
 <br>
   
 <h1 align="left">About the DataSet</h1>
-<p align="left">The dataset was sourced from <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python">Kaggle</a></p>
+<p align="left">The dataset was sourced from <a href="https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python">Kaggle</a> and consists of 5 columns detailing; CustomerID, Age, Gender, Annual Income and Spending score and 200 rows of data.</p>
   
  
 
