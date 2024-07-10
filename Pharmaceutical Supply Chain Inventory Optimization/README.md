@@ -3,7 +3,7 @@
 
   <p align="center">
   <img src="https://images.pexels.com/photos/139398/thermometer-headache-pain-pills-139398.jpeg?cs=srgb&dl=pexels-pixabay-139398.jpg&fm=jpg"
-       alt="Pharmaceutical Products" width="50%" />
+       alt="Pharmaceutical Products" width="65%" />
 </p>
 
 <br>
