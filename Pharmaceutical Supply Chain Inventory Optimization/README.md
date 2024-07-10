@@ -21,7 +21,7 @@ PharmaCorp faces a significant business challenge related to the optimization of
     
     D. Competitive Pressures: PharmaCorp faces intense competition from other pharmaceutical companies. Efficient inventory management is crucial to maintaining a competitive edge and optimizing costs.</p>
   
- 
+ <br>
 <h1 align="left"> Project Rationale </h1>
 <p align="left">
     Supply Chain Inventory Optimization is the process of managing inventory levels in a supply chain to minimize costs while meeting customer demand. It is crucial in the pharmaceutical industry because of the perishable nature of drugs and the need to maintain a high level of quality control. The significance of initiating this project lies in several compelling reasons:
@@ -35,7 +35,7 @@ PharmaCorp faces a significant business challenge related to the optimization of
         D. Sustainability: Reducing overproduction and waste aligns with PharmaCorp's commitment to sustainability and responsible business practices.
 </p>
 
-
+<br>
 <h1 align="left">About The Dataset </h1>
 <p>The dataset available from the company contains the following information:
 
@@ -47,7 +47,7 @@ PharmaCorp faces a significant business challenge related to the optimization of
     ✓ Compliance Status: This is an indication of whether or not a drug is compliant with regulation. Can be either of two things ‘Compliant’ or ‘Non-compliant’.
 </p>
 
-
+<br>
 <h1>Project Scope </h1>
 <p>
   
