@@ -1,3 +1,12 @@
+<h1 align="center">Network Intrusion Detection</h1>
+
+  <p align="center">
+  <img src="https://media.istockphoto.com/id/1435905195/vector/sentiment-analysis-different-opinions-various-customer-feedback-good-neutral-and-bad.jpg?s=612x612&w=0&k=20&c=8UwuMS5VI2H_9gudMXXV1ixIZ3YBmW6sLb_qexcLoXQ="
+       alt="Customer Sentiments" width="65%" />
+</p>
+
+
+<br>
 <h3 align="center"><a href="https://drive.google.com/drive/folders/1ReESGIBmAgzLkY7ynyGF69b4TlI-2VFp?usp=sharing">Dataset Link</a></h3>
 
 
@@ -185,12 +194,6 @@ Project Scope
 
 
 
-<h1 align="center">Sentiment Analysis For Custoemr Feedback</h1>
-
-  <p align="center">
-  <img src="https://media.istockphoto.com/id/1435905195/vector/sentiment-analysis-different-opinions-various-customer-feedback-good-neutral-and-bad.jpg?s=612x612&w=0&k=20&c=8UwuMS5VI2H_9gudMXXV1ixIZ3YBmW6sLb_qexcLoXQ="
-       alt="Customer Sentiments" width="65%" />
-</p>
 
 
 <br>
