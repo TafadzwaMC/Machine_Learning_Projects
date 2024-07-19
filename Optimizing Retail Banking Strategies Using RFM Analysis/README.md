@@ -2,7 +2,7 @@ Dataser Link: https://drive.google.com/file/d/1UjCNMFTMwOIqDbA6cxjvjwtn_9SvsWnb/
 <h1 align="center">Optimizing Retail Banking Strategies Using RFM Analysis</h1>
 
   <p align="center">
-  <img src="https://www.nicheagriculture.com/wp-content/uploads/2023/09/Are-agriculture-and-farming-the-same-Agriculture-vs-Farming-scaled.jpg"
+  <img src="https://clevertap.com/wp-content/uploads/2018/03/Incontent_image.png"
        alt="Farm" width="65%" />
 </p>
 
