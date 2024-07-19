@@ -1,4 +1,4 @@
-# Machine_Learning_Projects
+# Machine Learning Projects
 
 This repository is dedicated to showcasing various machine learning projects, demonstrating not only the implementation of different algorithms but also the methodologies employed, data preprocessing steps, model training, and evaluation.
 
@@ -16,5 +16,3 @@ This repository is dedicated to showcasing various machine learning projects, de
  <li>Unsupervised Learning: Clustering, Dimensionality Reduction</li>
  <li>Ensemble Methods: Random Forest, Gradient Boosting </li>
  <li>Neural Networks: Deep Learning, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)</li>
-
-This repository is dedicated to showcasing various machine learning projects, demonstrating not only the implementation of different algorithms but also the methodologies employed, data preprocessing steps, model training, and evaluation.
