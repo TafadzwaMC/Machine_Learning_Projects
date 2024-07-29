@@ -1,4 +1,4 @@
-<h1 align="center">Sentiment Analysis For Custoemr Feedback</h1>
+<h1 align="center">Sentiment Analysis For Customer Feedback</h1>
 
   <p align="center">
   <img src="https://media.istockphoto.com/id/1435905195/vector/sentiment-analysis-different-opinions-various-customer-feedback-good-neutral-and-bad.jpg?s=612x612&w=0&k=20&c=8UwuMS5VI2H_9gudMXXV1ixIZ3YBmW6sLb_qexcLoXQ="
